@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto:wght@400;500&display=swap');
+
+#errorTitle {
+    color: red;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#errorP {
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}

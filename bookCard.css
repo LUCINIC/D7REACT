@@ -1,0 +1,8 @@
+.book-card {
+  height: 300px;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: #92abef;
+}

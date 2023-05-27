@@ -1,0 +1,13 @@
+.footer {
+  background-color: #212529;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  color: white;
+}
